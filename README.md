@@ -202,3 +202,5 @@ OK, simple styling works, but we want to be able to use LESS.
 We can't add LESS from NPM because it is a compiler and we want it to be a part of Meteor build - so we will add it from Atmosphere:
 
 $ meteor add less
+
+
